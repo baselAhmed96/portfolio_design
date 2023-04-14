@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio_design/static/css/main.d84535c6.css",
+    "main.js": "/portfolio_design/static/js/main.eee6f8d0.js",
+    "static/media/fa-solid-900.ttf": "/portfolio_design/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/portfolio_design/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio_design/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/portfolio_design/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/portfolio_design/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/cabin.png": "/portfolio_design/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/portfolio_design/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/portfolio_design/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/portfolio_design/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/submarine.png": "/portfolio_design/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/portfolio_design/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/portfolio_design/static/media/cake.6554473016d32b343f02.png",
+    "static/media/Avatar.svg": "/portfolio_design/static/media/Avatar.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/portfolio_design/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio_design/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/portfolio_design/index.html",
+    "main.d84535c6.css.map": "/portfolio_design/static/css/main.d84535c6.css.map",
+    "main.eee6f8d0.js.map": "/portfolio_design/static/js/main.eee6f8d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84535c6.css",
+    "static/js/main.eee6f8d0.js"
+  ]
+}
